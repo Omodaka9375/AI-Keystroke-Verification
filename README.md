@@ -1,9 +1,7 @@
 # User-Verification-based-on-Keystroke-Dynamics
 This project tries to verify a subject's identity based on his keystroke patterns, ie, his typing habits.
 
-Best thing would be to follow Abhijeet Kumar's blog-post for implementation. The description about the steps to build the system from scratch can be read from his blog:
-
-https://appliedmachinelearning.wordpress.com/2017/01/23/nlp-blog-post/
+Best thing would be to follow Abhijeet Kumar's implementation.
 
 It is a Python implementation using following 5 models that measure the similarity between a subject's modelled typing behavior and a new typing sample:
   1) Manhattan Distance
